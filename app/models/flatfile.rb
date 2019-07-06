@@ -1,0 +1,2 @@
+class Flatfile < ApplicationRecord
+end
